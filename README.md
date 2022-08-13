@@ -15,3 +15,7 @@
 
 # Projects
 ## Data Science:
+
+## Natural Language Processing (NLP):
+
+## Computer Vision (CV):
