@@ -33,7 +33,6 @@
 - Book Clustering (Clustering-Is-All-You-Need)
 - ChatBot and Ontology Development
 
-
 ## GANs:
 - A Fake Task Filtering Security Layer using CGAN (Conditional GAN)
 
@@ -41,3 +40,21 @@
 - Atari Games using Q-Learning
 - Dell Hacktrick Multi Agent Game Competition
 
+
+# Projects TODO List:
+- [ ] Stock Market Prediction using the Tweets Sentiment Analysis as Additional Feature
+- [ ] Customer Churn using R Language
+- [ ] Market Basket Analysis (MBA)
+- [ ] Build RDBMS using SQL Server
+- [ ] Build Data Warehousing using SQL Server and R Language
+- [ ] Full Neural Networks Structure and Hyperparameter Tuning Pipeline
+- [ ] Feature Selection Using Clustering Methods Vs Filter-Wrapper Methods
+- [ ] Build One-vs-Rest and One-vs-One strategies Based-On the Most Important Features
+- [ ] Arabic Text Summarization After Doing a Literature Review
+- [ ] Arabic Twitter Sentiment Analysis Classification
+- [ ] Book Classification (Classification-Is-All-You-Need)
+- [ ] Book Clustering (Clustering-Is-All-You-Need)
+- [ ] ChatBot and Ontology Development
+- [ ] Atari Games using Q-Learning
+- [ ] Dell Hacktrick Multi Agent Game Competition
+- [ ] Fake Task Filtering Security Layer using CGAN (Conditional GAN)
