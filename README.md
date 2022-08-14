@@ -26,3 +26,9 @@
 - Feature Selection Using Clustering Methods Vs Filter-Wrapper Methods
 - Build One-vs-Rest and One-vs-One strategies Based-On the Most Important Features
 
+## Natural Language Processing (NLP):
+- Arabic Text Summarization After Doing a Literature Review
+- Arabic Twitter Sentiment Analysis Classification
+- Book Classification (Classification-Is-All-You-Need)
+- Book Clustering (Clustering-Is-All-You-Need)
+- ChatBot and Ontology Development
