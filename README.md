@@ -20,3 +20,9 @@
 - Market Basket Analysis (MBA)
 - Build RDBMS using SQL Server
 - Build Data Warehousing using SQL Server and R Language
+
+## Machine Learning (ML):
+- Full Neural Networks Structure and Hyperparameter Tuning Pipeline
+- Feature Selection Using Clustering Methods Vs Filter-Wrapper Methods
+- Build One-vs-Rest and One-vs-One strategies Based-On the Most Important Features
+
