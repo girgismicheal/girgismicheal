@@ -32,3 +32,8 @@
 - Book Classification (Classification-Is-All-You-Need)
 - Book Clustering (Clustering-Is-All-You-Need)
 - ChatBot and Ontology Development
+
+
+## GANs:
+- A Fake Task Filtering Security Layer using CGAN (Conditional GAN)
+
