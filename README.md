@@ -15,7 +15,8 @@
 
 # Projects
 ## Data Science:
-
-## Natural Language Processing (NLP):
-
-## Computer Vision (CV):
+- Stock Market Prediction using the Tweets Sentiment Analysis as Additional Feature
+- Customer Churn using R Language
+- Market Basket Analysis (MBA)
+- Build RDBMS using SQL Server
+- Build Data Warehousing using SQL Server and R Language
