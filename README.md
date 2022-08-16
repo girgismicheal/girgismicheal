@@ -45,3 +45,7 @@
 ### Reinforcement Learning (RL):
 - [Atari Games using Q-Learning](https://github.com/girgismicheal/Atari-Games-using-Q-Learning)
 - Dell Hacktrick Multi Agent Game Competition
+
+### Graduation Projects
+- Ain Shams Graduation:
+  - [Brain-Controlled Electric Smart Wheelchair with Self-Driving Capabilities](https://github.com/Mostafa-ashraf19/BrainWheel)
