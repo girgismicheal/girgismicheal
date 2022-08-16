@@ -55,3 +55,5 @@
 # Additional Activities
 ### Practice:
 - Problem Solving ([LeetCode](https://github.com/girgismicheal/Problem-Solving-LeetCode) - CodeForces)
+### Competition:
+- [Fully Functional DeepLearning Library (AinShamsFlow inspired by TensorFlow)](https://github.com/PierreNabil/AinShamsFlow) Wins the 1<sup>st</sup> Place out of 50 Teams
