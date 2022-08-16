@@ -44,3 +44,4 @@
 
 ### Reinforcement Learning (RL):
 - [Atari Games using Q-Learning](https://github.com/girgismicheal/Atari-Games-using-Q-Learning)
+- Dell Hacktrick Multi Agent Game Competition
