@@ -47,5 +47,7 @@
 - Dell Hacktrick Multi Agent Game Competition
 
 ### Graduation Projects
-- Ain Shams Graduation:
+- uOttawa:
+  - Virtual Fitting Room
+- Ain Shams:
   - [Brain-Controlled Electric Smart Wheelchair with Self-Driving Capabilities](https://github.com/Mostafa-ashraf19/BrainWheel)
