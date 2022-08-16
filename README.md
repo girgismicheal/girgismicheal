@@ -37,4 +37,5 @@
 
 ### Computer Vision (CV):
 - DeepFake Detection
+- Image Matting
 
