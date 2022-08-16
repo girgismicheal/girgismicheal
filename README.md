@@ -19,3 +19,5 @@
 - [Customer Churn using R Language](https://github.com/girgismicheal/Customer-Churn-Classification-using-R)
 - [Market Basket Analysis (MBA)](https://github.com/girgismicheal/Market-Basket-Analysis-using-R)
 - [Mancala game using minimax alpha-beta algorithm](https://github.com/girgismicheal/Mancala-game-with-ai-players)
+[//]: # (- Build RDBMS using SQL Server)
+[//]: # (- Build Data Warehousing using SQL Server and R Language)
