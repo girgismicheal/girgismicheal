@@ -51,3 +51,7 @@
   - Virtual Fitting Room
 - Ain Shams:
   - [Brain-Controlled Electric Smart Wheelchair with Self-Driving Capabilities](https://github.com/Mostafa-ashraf19/BrainWheel)
+
+# Additional Activities
+### Practice:
+- Problem Solving ([LeetCode](https://github.com/girgismicheal/Problem-Solving-LeetCode) - CodeForces)
