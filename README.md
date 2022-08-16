@@ -22,3 +22,4 @@
 [//]: # (- Build RDBMS using SQL Server)
 [//]: # (- Build Data Warehousing using SQL Server and R Language)
 ### Machine Learning (ML):
+- Full Neural Networks Structure and Hyperparameter Tuning Pipeline
