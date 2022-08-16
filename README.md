@@ -17,3 +17,4 @@
 ### Data Science:
 - [Stock Market Prediction using the Tweets Sentiment Analysis as Additional Feature](https://github.com/KerolosAtef/Stock-market-prediction-using-sentiment-analysis-of-twitter)
 - [Customer Churn using R Language](https://github.com/girgismicheal/Customer-Churn-Classification-using-R)
+- [Market Basket Analysis (MBA)](https://github.com/girgismicheal/Market-Basket-Analysis-using-R)
