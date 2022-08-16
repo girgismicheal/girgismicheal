@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Girgis Micheal</h1>
-<h3 align="center">AN Experienced Machine Learning Engineer from EGYPT</h3>
+<h3 align="center"> Machine learning Engineer | Data scientist | AI Master's Student at the University of Ottawa, Canada</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,11 +15,13 @@
 
 # Projects
 ### Data Science:
-- Stock Market Prediction using the Tweets Sentiment Analysis as Additional Feature
-- Customer Churn using R Language
-- Market Basket Analysis (MBA)
-- Build RDBMS using SQL Server
-- Build Data Warehousing using SQL Server and R Language
+- [Stock Market Prediction using the Tweets Sentiment Analysis as Additional Feature](https://github.com/KerolosAtef/Stock-market-prediction-using-sentiment-analysis-of-twitter)
+- [Customer Churn using R Language](https://github.com/girgismicheal/Customer-Churn-Classification-using-R)
+- [Market Basket Analysis (MBA)](https://github.com/girgismicheal/Market-Basket-Analysis-using-R)
+- [Mancala game using minimax alpha-beta algorithm](https://github.com/girgismicheal/Mancala-game-with-ai-players)
+
+[//]: # (- Build RDBMS using SQL Server)
+[//]: # (- Build Data Warehousing using SQL Server and R Language)
 
 ### Machine Learning (ML):
 - Full Neural Networks Structure and Hyperparameter Tuning Pipeline
@@ -32,38 +34,104 @@
 - Book Classification (Classification-Is-All-You-Need)
 - Book Clustering (Clustering-Is-All-You-Need)
 - ChatBot and Ontology Development
+- Autocorrection
+
+### Computer Vision (CV):
+- DeepFake Detection
+- Image Matting
 
 ### GANs:
 - A Fake Task Filtering Security Layer using CGAN (Conditional GAN)
 
 ### Reinforcement Learning (RL):
-- Atari Games using Q-Learning
+- [Atari Games using Q-Learning](https://github.com/girgismicheal/Atari-Games-using-Q-Learning)
 - Dell Hacktrick Multi Agent Game Competition
 
+### Graduation Projects
+- uOttawa:
+  - Virtual Fitting Room
+- Ain Shams Graduation:
+  - [Brain-Controlled Electric Smart Wheelchair with Self-Driving Capabilities](https://github.com/Mostafa-ashraf19/BrainWheel)
+
 # Additional Activities
-### Problem Solving:
-- LeetCode Problems
-### Interview Tasks Solution:
-- Image Matting Papers Evaluation
-### Competition:
+## Practice:
+- Problem Solving ([LeetCode](https://github.com/girgismicheal/Problem-Solving-LeetCode) - CodeForces)
+
 ### Online Courses:
-### Practice:
+- FWD
+  - Advanced Data Analysis
+  - Data Analysis Professional
+- Coursera
+  - Generative Adversarial Networks (GANs) Specialization by Sharon Zhou
+  - TensorFlow Developer Specialization by Laurence Moroney
+  - Deep Learning Specialization by Andrew Ng
+  - Machine Learning by Andrew Ng – Stanford University
+- MIT
+  - Mathematics for Computer Science by Tom Leighton
+
+### Technical Certificates:
+- AWS
+  - Cloud Practitioner (Certificate)
+  - Machine Learning (Certificate - Use cases)
+  - Data Analytics (Certificate - Use cases)
 
 
-# Project Repos TODO List:
-- [ ] Stock Market Prediction using the Tweets Sentiment Analysis as Additional Feature
-- [ ] Customer Churn using R Language
-- [ ] Market Basket Analysis (MBA)
+### Competition:
+- [Fully Functional DeepLearning Library (AinShamsFlow inspired by TensorFlow)](https://github.com/PierreNabil/AinShamsFlow) Wins the 1<sup>st</sup> Place out of 50 Teams
+- [BrainWheel (My Graduation Project)](https://github.com/Mostafa-ashraf19/BrainWheel) Wins the 4<sup>th</sup> Place out of 233 Teams
+- [Dell Hacktrick'22 is a Multi-Agent Reinforcement Learning Competition]() Top 8<sup>th</sup> out of 32 Teams
+
+
+# Completed Project Repos:
+- [X] Stock Market Prediction using the Tweets Sentiment Analysis as Additional Feature
+- [ ] DeepFake Detection
+- [X] Customer Churn using R Language
+- [X] Market Basket Analysis (MBA)
 - [ ] Build RDBMS using SQL Server
 - [ ] Build Data Warehousing using SQL Server and R Language
 - [ ] Full Neural Networks Structure and Hyperparameter Tuning Pipeline
 - [ ] Feature Selection Using Clustering Methods Vs Filter-Wrapper Methods
 - [ ] Build One-vs-Rest and One-vs-One strategies Based-On the Most Important Features
+
 - [ ] Arabic Text Summarization After Doing a Literature Review
 - [ ] Arabic Twitter Sentiment Analysis Classification
 - [ ] Book Classification (Classification-Is-All-You-Need)
 - [ ] Book Clustering (Clustering-Is-All-You-Need)
 - [ ] ChatBot and Ontology Development
-- [ ] Atari Games using Q-Learning
+- [X] [Atari Games using Q-Learning](https://github.com/girgismicheal/Atari-Games-using-Q-Learning#Overview)
+
 - [ ] Dell Hacktrick Multi Agent Game Competition
 - [ ] Fake Task Filtering Security Layer using CGAN (Conditional GAN)
+- [X] LeetCode Problems
+- [ ] Image Matting Papers Evaluation
+- [ ] Advanced Data Analysis
+- [ ] Data Analysis Professional
+- [ ] AWS Machine Learning Use cases
+- [ ] AWS Data Analytics Use cases
+- [ ] Virtual Fitting Room
+- [ ] Brain-Controlled Electric Smart Wheelchair with Self-Driving Capabilities
+
+- [X] Fully Functional DeepLearning Library
+- [X] Mancala game using minimax alpha-beta algorithm
+
+- Courses:
+  - FWD
+    - [ ] Advanced Data Analysis
+    - [ ] Data Analysis Professional
+  - Coursera
+    - [ ] Generative Adversarial Networks (GANs) Specialization by Sharon Zhou
+    - [ ] TensorFlow Developer Specialization by Laurence Moroney
+    - [ ] Deep Learning Specialization by Andrew Ng
+    - [ ] Machine Learning by Andrew Ng – Stanford University
+  
+    - [ ] Generative Deep Learning with TensorFlow
+    - [ ] Advanced Computer Vision with TensorFlow
+    - [ ] Custom and Distributed Training with TensorFlow
+    - [ ] Custom Models, Layers, and Loss Functions with TensorFlow
+    - [ ] Natural Language Processing with Attention Models
+    - [ ] Natural Language Processing with Sequence Models
+    - [ ] Natural Language Processing with Classification and Vector Spaces
+
+
+  - MIT
+    - [ ] Mathematics for Computer Science by Tom Leighton
