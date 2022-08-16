@@ -28,3 +28,4 @@
 
 ### Natural Language Processing (NLP):
 - Arabic Text Summarization After Doing a Literature Review
+- Arabic Twitter Sentiment Analysis Classification
