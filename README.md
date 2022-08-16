@@ -39,3 +39,5 @@
 - DeepFake Detection
 - Image Matting
 
+### GANs:
+- A Fake Task Filtering Security Layer using CGAN (Conditional GAN)
