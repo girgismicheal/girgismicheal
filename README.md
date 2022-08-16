@@ -33,4 +33,8 @@
 - Book Clustering (Clustering-Is-All-You-Need)
 
 - ChatBot and Ontology Development
-- Autocorrection
+- Autocorrection]
+
+### Computer Vision (CV):
+
+
