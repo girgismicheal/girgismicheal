@@ -36,5 +36,5 @@
 - Autocorrection]
 
 ### Computer Vision (CV):
-
+- DeepFake Detection
 
