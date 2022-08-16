@@ -41,3 +41,6 @@
 
 ### GANs:
 - A Fake Task Filtering Security Layer using CGAN (Conditional GAN)
+
+### Reinforcement Learning (RL):
+- [Atari Games using Q-Learning](https://github.com/girgismicheal/Atari-Games-using-Q-Learning)
