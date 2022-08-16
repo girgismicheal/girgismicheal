@@ -21,3 +21,4 @@
 - [Mancala game using minimax alpha-beta algorithm](https://github.com/girgismicheal/Mancala-game-with-ai-players)
 [//]: # (- Build RDBMS using SQL Server)
 [//]: # (- Build Data Warehousing using SQL Server and R Language)
+### Machine Learning (ML):
