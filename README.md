@@ -21,6 +21,7 @@
 - [Mancala game using minimax alpha-beta algorithm](https://github.com/girgismicheal/Mancala-game-with-ai-players)
 - Build RDBMS using SQL Server
 - Build Data Warehousing using SQL Server and R Language
+
 ### Machine Learning (ML):
 - Full Neural Networks Structure and Hyperparameter Tuning Pipeline
 - Feature Selection Using Clustering Methods Vs Filter-Wrapper Methods
@@ -32,7 +33,7 @@
 - Book Classification (Classification-Is-All-You-Need)
 - Book Clustering (Clustering-Is-All-You-Need)
 - ChatBot and Ontology Development
-- Autocorrection]
+- Autocorrection
 
 ### Computer Vision (CV):
 - DeepFake Detection
