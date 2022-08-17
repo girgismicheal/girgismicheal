@@ -73,6 +73,7 @@
   - Data Analysis Professional
 - Coursera
   - Generative Adversarial Networks (GANs) Specialization by Sharon Zhou
+  - TensorFlow Developer Specialization by Laurence Moroney
 
 - MIT
   - Mathematics for Computer Science by Tom Leighton
