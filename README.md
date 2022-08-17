@@ -97,7 +97,7 @@
 - [ ] Book Classification (Classification-Is-All-You-Need)
 - [ ] Book Clustering (Clustering-Is-All-You-Need)
 - [ ] ChatBot and Ontology Development
-- [X] [Atari Games using Q-Learning](https://github.com/girgismicheal/Atari-Games-using-Q-Learning#Overview)
+- [X] Atari Games using Q-Learning
 
 - [ ] Dell Hacktrick Multi Agent Game Competition
 - [ ] Fake Task Filtering Security Layer using CGAN (Conditional GAN)
