@@ -71,5 +71,8 @@
 - FWD
   - Advanced Data Analysis
   - Data Analysis Professional
+- Coursera
+  - Generative Adversarial Networks (GANs) Specialization by Sharon Zhou
+
 - MIT
   - Mathematics for Computer Science by Tom Leighton
