@@ -31,7 +31,6 @@
 - Arabic Twitter Sentiment Analysis Classification
 - Book Classification (Classification-Is-All-You-Need)
 - Book Clustering (Clustering-Is-All-You-Need)
-
 - ChatBot and Ontology Development
 - Autocorrection]
 
@@ -78,3 +77,55 @@
   - Machine Learning by Andrew Ng – Stanford University
 - MIT
   - Mathematics for Computer Science by Tom Leighton
+
+
+# Completed Project Repos:
+- [X] Stock Market Prediction using the Tweets Sentiment Analysis as Additional Feature
+- [ ] DeepFake Detection
+- [X] Customer Churn using R Language
+- [X] Market Basket Analysis (MBA)
+- [ ] Build RDBMS using SQL Server
+- [ ] Build Data Warehousing using SQL Server and R Language
+- [ ] Full Neural Networks Structure and Hyperparameter Tuning Pipeline
+- [ ] Feature Selection Using Clustering Methods Vs Filter-Wrapper Methods
+- [ ] Build One-vs-Rest and One-vs-One strategies Based-On the Most Important Features
+
+- [ ] Arabic Text Summarization After Doing a Literature Review
+- [ ] Arabic Twitter Sentiment Analysis Classification
+- [ ] Book Classification (Classification-Is-All-You-Need)
+- [ ] Book Clustering (Clustering-Is-All-You-Need)
+- [ ] ChatBot and Ontology Development
+- [X] [Atari Games using Q-Learning](https://github.com/girgismicheal/Atari-Games-using-Q-Learning#Overview)
+
+- [ ] Dell Hacktrick Multi Agent Game Competition
+- [ ] Fake Task Filtering Security Layer using CGAN (Conditional GAN)
+- [X] LeetCode Problems
+- [ ] Image Matting Papers Evaluation
+- [ ] Advanced Data Analysis
+- [ ] Data Analysis Professional
+- [ ] AWS Machine Learning Use cases
+- [ ] AWS Data Analytics Use cases
+- [ ] Virtual Fitting Room
+- [ ] Brain-Controlled Electric Smart Wheelchair with Self-Driving Capabilities
+
+- [X] Fully Functional DeepLearning Library
+- [X] Mancala game using minimax alpha-beta algorithm
+
+- Courses:
+  - FWD
+    - [ ] Advanced Data Analysis
+    - [ ] Data Analysis Professional
+  - Coursera
+    - [ ] Generative Adversarial Networks (GANs) Specialization by Sharon Zhou
+    - [ ] TensorFlow Developer Specialization by Laurence Moroney
+    - [ ] Deep Learning Specialization by Andrew Ng
+    - [ ] Machine Learning by Andrew Ng – Stanford University
+    - [ ] Generative Deep Learning with TensorFlow
+    - [ ] Advanced Computer Vision with TensorFlow
+    - [ ] Custom and Distributed Training with TensorFlow
+    - [ ] Custom Models, Layers, and Loss Functions with TensorFlow
+    - [ ] Natural Language Processing with Attention Models
+    - [ ] Natural Language Processing with Sequence Models
+    - [ ] Natural Language Processing with Classification and Vector Spaces
+  - MIT
+    - [ ] Mathematics for Computer Science by Tom Leighton
