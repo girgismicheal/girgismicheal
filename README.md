@@ -71,3 +71,5 @@
 - FWD
   - Advanced Data Analysis
   - Data Analysis Professional
+- MIT
+  - Mathematics for Computer Science by Tom Leighton
