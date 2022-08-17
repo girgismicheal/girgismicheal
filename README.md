@@ -64,4 +64,5 @@
 - AWS
   - Cloud Practitioner (Certificate)
   - Machine Learning (Certificate - Use cases)
+  - Data Analytics (Certificate - Use cases)
   
