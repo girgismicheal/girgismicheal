@@ -75,6 +75,6 @@
   - Generative Adversarial Networks (GANs) Specialization by Sharon Zhou
   - TensorFlow Developer Specialization by Laurence Moroney
   - Deep Learning Specialization by Andrew Ng
-
+  - Machine Learning by Andrew Ng – Stanford University
 - MIT
   - Mathematics for Computer Science by Tom Leighton
