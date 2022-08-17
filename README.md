@@ -70,3 +70,4 @@
 ### Online Courses:
 - FWD
   - Advanced Data Analysis
+  - Data Analysis Professional
