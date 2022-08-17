@@ -23,7 +23,7 @@
 - Build Data Warehousing using SQL Server and R Language
 
 ### Machine Learning (ML):
-- Full Neural Networks Structure and Hyperparameter Tuning Pipeline
+- [Network Intrusion Detection using Deep Learning](https://github.com/girgismicheal/Network-Intrusion-Detection-using-DeepLearning)
 - Feature Selection Using Clustering Methods Vs Filter-Wrapper Methods
 - Build One-vs-Rest and One-vs-One strategies Based-On the Most Important Features
 
@@ -87,7 +87,8 @@
 - [X] Market Basket Analysis (MBA)
 - [ ] Build RDBMS using SQL Server
 - [ ] Build Data Warehousing using SQL Server and R Language
-- [ ] Full Neural Networks Structure and Hyperparameter Tuning Pipeline
+
+- [X] Network Intrusion Detection using Deep Learning
 - [ ] Feature Selection Using Clustering Methods Vs Filter-Wrapper Methods
 - [ ] Build One-vs-Rest and One-vs-One strategies Based-On the Most Important Features
 
