@@ -112,11 +112,11 @@
 - [X] Fully Functional DeepLearning Library
 - [X] Mancala game using minimax alpha-beta algorithm
 
-- Courses:
-  - FWD
+- [ ] Courses:
+  - [ ] FWD
     - [ ] Advanced Data Analysis
     - [ ] Data Analysis Professional
-  - Coursera
+  - [ ] Coursera
     - [ ] Generative Adversarial Networks (GANs) Specialization by Sharon Zhou
     - [ ] TensorFlow Developer Specialization by Laurence Moroney
     - [ ] Deep Learning Specialization by Andrew Ng
@@ -128,5 +128,5 @@
     - [ ] Natural Language Processing with Attention Models
     - [ ] Natural Language Processing with Sequence Models
     - [ ] Natural Language Processing with Classification and Vector Spaces
-  - MIT
+  - [ ] MIT
     - [ ] Mathematics for Computer Science by Tom Leighton
