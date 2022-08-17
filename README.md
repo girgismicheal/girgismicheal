@@ -68,3 +68,5 @@
   - Data Analytics (Certificate - Use cases)
 
 ### Online Courses:
+- FWD
+  - Advanced Data Analysis
