@@ -74,6 +74,7 @@
 - Coursera
   - Generative Adversarial Networks (GANs) Specialization by Sharon Zhou
   - TensorFlow Developer Specialization by Laurence Moroney
+  - Deep Learning Specialization by Andrew Ng
 
 - MIT
   - Mathematics for Computer Science by Tom Leighton
