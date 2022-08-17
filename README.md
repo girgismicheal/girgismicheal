@@ -55,6 +55,7 @@
 # Additional Activities
 ### Practice:
 - Problem Solving ([LeetCode](https://github.com/girgismicheal/Problem-Solving-LeetCode) - CodeForces)
+
 ### Competition:
 - [Fully Functional DeepLearning Library (AinShamsFlow inspired by TensorFlow)](https://github.com/PierreNabil/AinShamsFlow) Wins the 1<sup>st</sup> Place out of 50 Teams
 - [BrainWheel (My Graduation Project)](https://github.com/Mostafa-ashraf19/BrainWheel) Wins the 4<sup>th</sup> Place out of 233 Teams
@@ -65,4 +66,5 @@
   - Cloud Practitioner (Certificate)
   - Machine Learning (Certificate - Use cases)
   - Data Analytics (Certificate - Use cases)
-  
+
+### Online Courses:
