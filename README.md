@@ -63,4 +63,5 @@
 ### Technical Certificates:
 - AWS
   - Cloud Practitioner (Certificate)
+  - Machine Learning (Certificate - Use cases)
   
