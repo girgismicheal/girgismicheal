@@ -63,7 +63,7 @@
 
 ### Technical Certificates:
 - AWS
-  - Cloud Practitioner (Certificate)
+  - Cloud Practitioner ([Certificate](https://www.credly.com/badges/cec177d6-3ed7-42f0-9203-af8aef7dd395?source=linked_in_profile))
   - Machine Learning (Certificate - Use cases)
   - Data Analytics (Certificate - Use cases)
 
