@@ -30,8 +30,8 @@
 ### Natural Language Processing (NLP):
 - Arabic Text Summarization After Doing a Literature Review
 - Arabic Twitter Sentiment Analysis Classification
-- Book Classification (Classification-Is-All-You-Need)
-- Book Clustering (Clustering-Is-All-You-Need)
+- [Book Classification (Classification-Is-All-You-Need)](https://github.com/girgismicheal/-Book-Classification--Classification-Is-All-You-Need-)
+- [Book Clustering (Clustering-Is-All-You-Need)](https://github.com/girgismicheal/Book-Clustering-Clustering-Is-All-You-Need-)
 - ChatBot and Ontology Development
 - Autocorrection
 
@@ -94,7 +94,7 @@
 
 - [ ] Arabic Text Summarization After Doing a Literature Review
 - [ ] Arabic Twitter Sentiment Analysis Classification
-- [ ] Book Classification (Classification-Is-All-You-Need)
+- [X] Book Classification (Classification-Is-All-You-Need)
 - [ ] Book Clustering (Clustering-Is-All-You-Need)
 - [ ] ChatBot and Ontology Development
 - [X] Atari Games using Q-Learning
