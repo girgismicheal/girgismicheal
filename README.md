@@ -95,7 +95,7 @@
 - [ ] Arabic Text Summarization After Doing a Literature Review
 - [ ] Arabic Twitter Sentiment Analysis Classification
 - [X] Book Classification (Classification-Is-All-You-Need)
-- [ ] Book Clustering (Clustering-Is-All-You-Need)
+- [X] Book Clustering (Clustering-Is-All-You-Need)
 - [ ] ChatBot and Ontology Development
 - [X] Atari Games using Q-Learning
 
