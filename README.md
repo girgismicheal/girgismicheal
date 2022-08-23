@@ -118,8 +118,8 @@
 - [X] Mancala game using minimax alpha-beta algorithm
 
 - [ ] Desktop Application
- - [ ] Memory-Management-Application-Using-QT-framework
- - [ ] Process-Scheduling-Application-Using-QT-framework
+  - [X] Memory-Management-Application-Using-QT-framework
+  - [ ] Process-Scheduling-Application-Using-QT-framework
 
 - [ ] Courses:
   - [ ] FWD
