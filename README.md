@@ -119,7 +119,7 @@
 
 - [ ] Desktop Application
   - [X] Memory-Management-Application-Using-QT-framework
-  - [ ] Process-Scheduling-Application-Using-QT-framework
+  - [X] Process-Scheduling-Application-Using-QT-framework
 
 - [ ] Courses:
   - [ ] FWD
