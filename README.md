@@ -61,6 +61,10 @@
 - [BrainWheel (My Graduation Project)](https://github.com/Mostafa-ashraf19/BrainWheel) Wins the 4<sup>th</sup> Place out of 233 Teams at Dell Technologies 2021
 - [Dell Hacktrick'22 is a Multi-Agent Reinforcement Learning Competition]() Top 8<sup>th</sup> out of 32 Teams
 
+### Desktop Application
+ - [Memory-Management-Application-Using-QT-framework](https://github.com/girgismicheal/Memory-Management-Application-Using-QT-framework)
+ - [Process-Scheduling-Application-Using-QT-framework](https://github.com/girgismicheal/Process-Scheduling-Application-Using-QT-framework)
+
 ### Technical Certificates:
 - AWS
   - Cloud Practitioner ([Certificate](https://www.credly.com/badges/cec177d6-3ed7-42f0-9203-af8aef7dd395?source=linked_in_profile))
@@ -112,6 +116,10 @@
 
 - [X] Fully Functional DeepLearning Library
 - [X] Mancala game using minimax alpha-beta algorithm
+
+- [ ] Desktop Application
+ - [ ] Memory-Management-Application-Using-QT-framework
+ - [ ] Process-Scheduling-Application-Using-QT-framework
 
 - [ ] Courses:
   - [ ] FWD
