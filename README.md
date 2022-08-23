@@ -29,7 +29,7 @@
 
 ### Natural Language Processing (NLP):
 - Arabic Text Summarization After Doing a Literature Review
-- Arabic Twitter Sentiment Analysis Classification
+- [Arabic Twitter Sentiment Analysis Classification](https://github.com/girgismicheal/Sentiment-Analysis-in-Arabic-tweet)
 - [Book Classification (Classification-Is-All-You-Need)](https://github.com/girgismicheal/-Book-Classification--Classification-Is-All-You-Need-)
 - [Book Clustering (Clustering-Is-All-You-Need)](https://github.com/girgismicheal/Book-Clustering-Clustering-Is-All-You-Need-)
 - ChatBot and Ontology Development
