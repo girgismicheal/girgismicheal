@@ -32,7 +32,7 @@
 - [Arabic Twitter Sentiment Analysis Classification](https://github.com/girgismicheal/Sentiment-Analysis-in-Arabic-tweet)
 - [Book Classification (Classification-Is-All-You-Need)](https://github.com/girgismicheal/-Book-Classification--Classification-Is-All-You-Need-)
 - [Book Clustering (Clustering-Is-All-You-Need)](https://github.com/girgismicheal/Book-Clustering-Clustering-Is-All-You-Need-)
-- ChatBot and Ontology Development
+- [iCare ChatBot](https://github.com/girgismicheal/iCare-ChatBot)
 - Autocorrection
 
 ### Computer Vision (CV):
@@ -100,7 +100,7 @@
 - [ ] Arabic Twitter Sentiment Analysis Classification
 - [X] Book Classification (Classification-Is-All-You-Need)
 - [X] Book Clustering (Clustering-Is-All-You-Need)
-- [ ] ChatBot and Ontology Development
+- [X] iCare ChatBot
 - [X] Atari Games using Q-Learning
 
 - [ ] Dell Hacktrick Multi Agent Game Competition
