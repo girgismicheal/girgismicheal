@@ -73,7 +73,7 @@
 
 ### Online Courses:
 - FWD
-  - Advanced Data Analysis
+  - [Advanced Data Analysis](https://github.com/girgismicheal/Advanced-Data-Analysis-egfwd)
   - Data Analysis Professional
 - Coursera
   - Generative Adversarial Networks (GANs) Specialization by Sharon Zhou
@@ -123,7 +123,7 @@
 
 - [ ] Courses:
   - [ ] FWD
-    - [ ] Advanced Data Analysis
+    - [X] Advanced Data Analysis
     - [ ] Data Analysis Professional
   - [ ] Coursera
     - [ ] Generative Adversarial Networks (GANs) Specialization by Sharon Zhou
