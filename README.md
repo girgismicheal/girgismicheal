@@ -68,8 +68,14 @@
 ### Technical Certificates:
 - AWS
   - Cloud Practitioner ([Certificate](https://www.credly.com/badges/cec177d6-3ed7-42f0-9203-af8aef7dd395?source=linked_in_profile))
-  - Machine Learning ([Certificate](https://www.credly.com/badges/eb1c4a59-86d0-4537-b51f-6728144bd2f9?source=linked_in_profile) - Use cases)
+  - Machine Learning ([Certificate](https://www.credly.com/badges/eb1c4a59-86d0-4537-b51f-6728144bd2f9?source=linked_in_profile))
+    - Use case 1
+    - Use case 2
+    - Use case 3
   - Data Analytics (Certificate - Use cases)
+    - [Data Integration using ML](https://github.com/girgismicheal/Data-Integration-using-ML)
+    - [AI-Driven Social Media Dashboard](https://github.com/girgismicheal/AI-Driven-Social-Media-Dashboard/tree/main) and [My-Step-By-Step-Video-Record](https://drive.google.com/drive/folders/1POylvI2S2wWIMmW39OjwuVwUsVDhuXYl?usp=sharing)
+
 
 ### Online Courses:
 - FWD
