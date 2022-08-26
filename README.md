@@ -68,11 +68,11 @@
 ### Technical Certificates:
 - AWS
   - Cloud Practitioner ([Certificate](https://www.credly.com/badges/cec177d6-3ed7-42f0-9203-af8aef7dd395?source=linked_in_profile))
-  - Machine Learning ([Certificate](https://www.credly.com/badges/eb1c4a59-86d0-4537-b51f-6728144bd2f9?source=linked_in_profile))
-    - Use case 1
-    - Use case 2
-    - Use case 3
-  - Data Analytics (Certificate - Use cases)
+  - [Machine Learning](https://github.com/girgismicheal/Machine-Learning-on-AWS?fbclid=IwAR24sFIh4lZ1WJw7uO0--tDqlOg4MD6GTEK2wzdN4bSM94SSkppabYBoG_M) ([Certificate](https://www.credly.com/badges/eb1c4a59-86d0-4537-b51f-6728144bd2f9?source=linked_in_profile))
+    - [Use case 1]()
+    - [Use case 2]()
+    - [Use case 3]()
+  - [Data Analytics](https://github.com/girgismicheal/Data-Analytics-on-AWS?fbclid=IwAR1xW6z6wyQ5TamR4YMHP3kOyD_pzUJKCTBlkE99rwhV2-QHiPtLT-t8AVM) (Certificate)
     - [Data Integration using ML](https://github.com/girgismicheal/Data-Integration-using-ML)
     - [AI-Driven Social Media Dashboard](https://github.com/girgismicheal/AI-Driven-Social-Media-Dashboard/tree/main) and [My-Step-By-Step-Video-Record](https://drive.google.com/drive/folders/1POylvI2S2wWIMmW39OjwuVwUsVDhuXYl?usp=sharing)
 
