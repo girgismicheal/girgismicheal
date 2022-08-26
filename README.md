@@ -109,22 +109,29 @@
 - [ ] Image Matting Papers Evaluation
 - [ ] Advanced Data Analysis
 - [ ] Data Analysis Professional
-- [ ] AWS Machine Learning Use cases
-- [ ] AWS Data Analytics Use cases
 - [ ] Virtual Fitting Room
 - [ ] Brain-Controlled Electric Smart Wheelchair with Self-Driving Capabilities
 
 - [X] Fully Functional DeepLearning Library
 - [X] Mancala game using minimax alpha-beta algorithm
 
-- [ ] Desktop Application
+- [X] Desktop Application
   - [X] Memory-Management-Application-Using-QT-framework
   - [X] Process-Scheduling-Application-Using-QT-framework
 
 - [ ] Courses:
-  - [ ] FWD
+  -[ ] AWS
+    - [X] Machine Learning
+      - [ ] Use Case 1 
+      - [ ] Use Case 2
+      - [ ] Use Case 3
+    - [X] Data Analytics
+      - [ ] Data Integration using ML
+      - [X] AI-Driven Social Media Dashboard
+  - [X] FWD
     - [X] Advanced Data Analysis Track
     - [X] Professional Data Analysis Track
+    - [ ] Week Proejects
   - [ ] Coursera
     - [ ] Generative Adversarial Networks (GANs) Specialization by Sharon Zhou
     - [ ] TensorFlow Developer Specialization by Laurence Moroney
