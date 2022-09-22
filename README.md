@@ -82,7 +82,7 @@
   - [Advanced Data Analysis](https://github.com/girgismicheal/Advanced-Data-Analysis-egfwd)
   - [Data Analysis Professional](https://github.com/girgismicheal/Professional-Data-Analysis-egfwd)
 - Coursera
-  - Generative Adversarial Networks (GANs) Specialization by Sharon Zhou
+  - [Generative Adversarial Networks (GANs) Specialization by Sharon Zhou](https://github.com/girgismicheal/Generative-Adversarial-Networks-GANs-Specialization-Coursera)
   - TensorFlow Developer Specialization by Laurence Moroney
   - Deep Learning Specialization by Andrew Ng
   - Machine Learning by Andrew Ng – Stanford University
@@ -139,7 +139,7 @@
     - [X] Professional Data Analysis Track
     - [ ] Week Proejects
   - [ ] Coursera
-    - [ ] Generative Adversarial Networks (GANs) Specialization by Sharon Zhou
+    - [X] Generative Adversarial Networks (GANs) Specialization by Sharon Zhou
     - [ ] TensorFlow Developer Specialization by Laurence Moroney
     - [ ] Deep Learning Specialization by Andrew Ng
     - [ ] Machine Learning by Andrew Ng – Stanford University
