@@ -72,7 +72,7 @@
     - [Use case 1]()
     - [Use case 2]()
     - [Use case 3]()
-  - [Data Analytics](https://github.com/girgismicheal/Data-Analytics-on-AWS?fbclid=IwAR1xW6z6wyQ5TamR4YMHP3kOyD_pzUJKCTBlkE99rwhV2-QHiPtLT-t8AVM) (Certificate)
+  - [Data Analytics](https://github.com/girgismicheal/Data-Analytics-on-AWS?fbclid=IwAR1xW6z6wyQ5TamR4YMHP3kOyD_pzUJKCTBlkE99rwhV2-QHiPtLT-t8AVM) ([Certificate](https://www.credly.com/earner/earned/badge/69df2320-4bb7-4176-bf80-325d61bcc747))
     - [Data Integration using ML](https://github.com/girgismicheal/Data-Integration-using-ML)
     - [AI-Driven Social Media Dashboard](https://github.com/girgismicheal/AI-Driven-Social-Media-Dashboard/tree/main) and [My-Step-By-Step-Video-Record](https://drive.google.com/drive/folders/1POylvI2S2wWIMmW39OjwuVwUsVDhuXYl?usp=sharing)
 
