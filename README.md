@@ -40,7 +40,7 @@
 - Image Matting
 
 ### GANs:
-- A Fake Task Filtering Security Layer using CGAN (Conditional GAN)
+- [Building Fake Task Filtering Security Layer using CGAN (Conditional GAN)](https://github.com/girgismicheal/Building-a-second-layer-of-secuirity-using-CGAN)
 
 ### Reinforcement Learning (RL):
 - [Atari Games using Q-Learning](https://github.com/girgismicheal/Atari-Games-using-Q-Learning)
