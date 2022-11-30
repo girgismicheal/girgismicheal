@@ -33,7 +33,7 @@
 - [Book Classification (Classification-Is-All-You-Need)](https://github.com/girgismicheal/-Book-Classification--Classification-Is-All-You-Need-)
 - [Book Clustering (Clustering-Is-All-You-Need)](https://github.com/girgismicheal/Book-Clustering-Clustering-Is-All-You-Need-)
 - [iCare ChatBot](https://github.com/girgismicheal/iCare-ChatBot)
-- Autocorrection
+- [Autocorrect-Methodologies-Evaluation](https://github.com/girgismicheal/Autocorrect-Methodologies-Evaluation)
 
 ### Computer Vision (CV):
 - DeepFake Detection
@@ -107,6 +107,7 @@
 - [X] Book Classification (Classification-Is-All-You-Need)
 - [X] Book Clustering (Clustering-Is-All-You-Need)
 - [X] iCare ChatBot
+- [X] Autocorrect-Methodologies-Evaluation
 - [X] Atari Games using Q-Learning
 
 - [ ] Dell Hacktrick Multi Agent Game Competition
