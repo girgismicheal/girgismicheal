@@ -110,7 +110,7 @@
 - [X] Atari Games using Q-Learning
 
 - [ ] Dell Hacktrick Multi Agent Game Competition
-- [ ] Fake Task Filtering Security Layer using CGAN (Conditional GAN)
+- [X] Fake Task Filtering Security Layer using CGAN (Conditional GAN)
 - [X] LeetCode Problems
 - [ ] Image Matting Papers Evaluation
 - [ ] Advanced Data Analysis
