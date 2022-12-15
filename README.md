@@ -36,8 +36,11 @@
 - [Autocorrect-Methodologies-Evaluation](https://github.com/girgismicheal/Autocorrect-Methodologies-Evaluation)
 
 ### Computer Vision (CV):
+- Plant's Leaf counting using VGG16
+- Bird's type classification with ResNet101
 - DeepFake Detection
 - Image Matting
+
 
 ### GANs:
 - [Building Fake Task Filtering Security Layer using CGAN (Conditional GAN)](https://github.com/girgismicheal/Building-a-second-layer-of-secuirity-using-CGAN)
@@ -118,6 +121,9 @@
 - [ ] Data Analysis Professional
 - [ ] Virtual Fitting Room
 - [ ] Brain-Controlled Electric Smart Wheelchair with Self-Driving Capabilities
+
+- [ ] Plant's Leaf counting using VGG16
+- [ ] Bird's type classification with ResNet101
 
 - [X] Fully Functional DeepLearning Library
 - [X] Mancala game using minimax alpha-beta algorithm
