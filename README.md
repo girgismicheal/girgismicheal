@@ -38,8 +38,8 @@
 ### Computer Vision (CV):
 - DeepFake Generation and Detection
 - Artifacts Classification inside Historical Museums
-- ![Plant's Leaf counting using VGG16](https://github.com/girgismicheal/Plant-s_Leaf_counting_using_VGG16)
-- ![Bird's type classification with ResNet101](https://github.com/girgismicheal/Bird_Type-Classification_using_ResNet101/settings)
+- [Plant's Leaf counting using VGG16](https://github.com/girgismicheal/Plant-s_Leaf_counting_using_VGG16)
+- [Bird's type classification with ResNet101](https://github.com/girgismicheal/Bird_Type-Classification_using_ResNet101/settings)
 - Image Matting
 
 
