@@ -36,9 +36,10 @@
 - [Autocorrect-Methodologies-Evaluation](https://github.com/girgismicheal/Autocorrect-Methodologies-Evaluation)
 
 ### Computer Vision (CV):
+- DeepFake Generation and Detection
+- Artifacts Classification inside Historical Museums
 - Plant's Leaf counting using VGG16
 - Bird's type classification with ResNet101
-- DeepFake Detection
 - Image Matting
 
 
@@ -122,8 +123,9 @@
 - [ ] Virtual Fitting Room
 - [ ] Brain-Controlled Electric Smart Wheelchair with Self-Driving Capabilities
 
-- [ ] Plant's Leaf counting using VGG16
+- [X] Plant's Leaf counting using VGG16
 - [ ] Bird's type classification with ResNet101
+- [ ] Artifacts Classification inside Historical Museums
 
 - [X] Fully Functional DeepLearning Library
 - [X] Mancala game using minimax alpha-beta algorithm
