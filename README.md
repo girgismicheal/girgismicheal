@@ -39,7 +39,7 @@
 - DeepFake Generation and Detection
 - Artifacts Classification inside Historical Museums
 - Plant's Leaf counting using VGG16
-- Bird's type classification with ResNet101
+- ![Bird's type classification with ResNet101](https://github.com/girgismicheal/Bird_Type-Classification_using_ResNet101/settings)
 - Image Matting
 
 
@@ -124,7 +124,7 @@
 - [ ] Brain-Controlled Electric Smart Wheelchair with Self-Driving Capabilities
 
 - [X] Plant's Leaf counting using VGG16
-- [ ] Bird's type classification with ResNet101
+- [X] Bird's type classification with ResNet101
 - [ ] Artifacts Classification inside Historical Museums
 
 - [X] Fully Functional DeepLearning Library
