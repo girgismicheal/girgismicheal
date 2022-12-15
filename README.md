@@ -28,7 +28,7 @@
 - Build One-vs-Rest and One-vs-One strategies Based-On the Most Important Features
 
 ### Natural Language Processing (NLP):
-- Arabic Text Summarization After Doing a Literature Review
+- Arabic Text Summarization using transformers, and PyQt5
 - [Arabic Twitter Sentiment Analysis Classification](https://github.com/girgismicheal/Sentiment-Analysis-in-Arabic-tweet)
 - [Book Classification (Classification-Is-All-You-Need)](https://github.com/girgismicheal/-Book-Classification--Classification-Is-All-You-Need-)
 - [Book Clustering (Clustering-Is-All-You-Need)](https://github.com/girgismicheal/Book-Clustering-Clustering-Is-All-You-Need-)
@@ -41,6 +41,11 @@
 - [Plant's Leaf counting using VGG16](https://github.com/girgismicheal/Plant-s_Leaf_counting_using_VGG16)
 - [Bird's type classification with ResNet101](https://github.com/girgismicheal/Bird_Type-Classification_using_ResNet101/settings)
 - Image Matting
+- Cars Detection (Yolo5, Yolo7, Faster RCNN, Fast RCNN, RCNN, and )
+- Segmentation
+- OpenPose
+- DensePose
+
 
 
 ### GANs:
