@@ -68,7 +68,7 @@
 ### Competition:
 - [Fully Functional DeepLearning Library (AinShamsFlow inspired by TensorFlow)](https://github.com/PierreNabil/AinShamsFlow) Wins the 1<sup>st</sup> Place out of 50 Teams
 - [BrainWheel (My Graduation Project)](https://github.com/Mostafa-ashraf19/BrainWheel) Wins the 4<sup>th</sup> Place out of 233 Teams at Dell Technologies 2021
-- [Dell Hacktrick'22 is a Multi-Agent Reinforcement Learning Competition]() Top 8<sup>th</sup> out of 32 Teams
+- [Dell Hacktrick'22 is a Multi-Agent Reinforcement Learning Competition](https://github.com/girgismicheal/Hacktrick-Game-Reinforcement-Learning) Top 8<sup>th</sup> out of 32 Teams
 
 ### Desktop Application
  - [Memory-Management-Application-Using-QT-framework](https://github.com/girgismicheal/Memory-Management-Application-Using-QT-framework)
