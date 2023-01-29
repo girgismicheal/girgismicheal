@@ -41,7 +41,7 @@
 - [Plant's Leaf counting using VGG16](https://github.com/girgismicheal/Plant-s_Leaf_counting_using_VGG16)
 - [Bird's type classification with ResNet101](https://github.com/girgismicheal/Bird_Type-Classification_using_ResNet101/settings)
 - Image Matting
-- Cars Detection (Yolo5, Yolo7, Faster RCNN, Fast RCNN, RCNN, and )
+- Cars Detection (Yolo5, Yolo7, Faster RCNN, Fast RCNN, RCNN, and Yolo8)
 - Segmentation
 - OpenPose
 - DensePose
@@ -68,7 +68,7 @@
 ### Competition:
 - [Fully Functional DeepLearning Library (AinShamsFlow inspired by TensorFlow)](https://github.com/PierreNabil/AinShamsFlow) Wins the 1<sup>st</sup> Place out of 50 Teams
 - [BrainWheel (My Graduation Project)](https://github.com/Mostafa-ashraf19/BrainWheel) Wins the 4<sup>th</sup> Place out of 233 Teams at Dell Technologies 2021
-- [Dell Hacktrick'22 is a Multi-Agent Reinforcement Learning Competition](https://github.com/girgismicheal/Hacktrick-Game-Reinforcement-Learning) Top 8<sup>th</sup> out of 32 Teams
+- [Dell Hacktrick'22 is a Multi-Agent Reinforcement Learning Competition](https://github.com/girgismicheal/Hacktrick-Game-Reinforcement-Learning) Top 6<sup>th</sup> out of 32 Teams
 
 ### Desktop Application
  - [Memory-Management-Application-Using-QT-framework](https://github.com/girgismicheal/Memory-Management-Application-Using-QT-framework)
@@ -140,7 +140,7 @@
   - [X] Process-Scheduling-Application-Using-QT-framework
 
 - [ ] Courses:
-  -[ ] AWS
+  - [ ] AWS
     - [X] Machine Learning
       - [ ] Use Case 1 
       - [ ] Use Case 2
