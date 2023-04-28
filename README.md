@@ -114,7 +114,7 @@
 
 
 # Completed Project Repos:
-- [X] Stock Market Prediction using the Tweets Sentiment Analysis as Additional Feature
+
 - [ ] DeepFake Detection
 - [X] Customer Churn using R Language
 - [X] Market Basket Analysis (MBA)
