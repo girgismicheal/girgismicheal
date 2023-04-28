@@ -83,6 +83,8 @@
 - [Machine Learning](https://github.com/girgismicheal/Machine-Learning-Tutorials)
 - [Natural-Language-Processing](https://github.com/girgismicheal/Natural-Language-Processing-Tutorials)
 - [Cloud Analytics and Big Data](https://github.com/girgismicheal/Cloud-Analytics-Tutorials)
+
+### Notes
 - DevOps and Deployment for Data Scientist
   - Docker & Kubernetes
   - Git and GitHub
