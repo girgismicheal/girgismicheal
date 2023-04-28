@@ -45,6 +45,9 @@
 - Segmentation
 - OpenPose
 - DensePose
+- Sensor Fusion
+  - [Camera](https://github.com/girgismicheal/Camera-Project)
+  - [Radar](https://github.com/girgismicheal/Radar_Project)
 
 
 
