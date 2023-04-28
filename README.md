@@ -71,9 +71,16 @@
 - Problem Solving ([LeetCode](https://github.com/girgismicheal/Problem-Solving-LeetCode) - CodeForces)
 
 ### Competition:
-- [Fully Functional DeepLearning Library (AinShamsFlow inspired by TensorFlow)](https://github.com/PierreNabil/AinShamsFlow) Wins the 1<sup>st</sup> Place out of 50 Teams
-- [BrainWheel (My Graduation Project)](https://github.com/Mostafa-ashraf19/BrainWheel) Wins the 4<sup>th</sup> Place out of 233 Teams at Dell Technologies 2021
-- [Dell Hacktrick'22 is a Multi-Agent Reinforcement Learning Competition](https://github.com/girgismicheal/Hacktrick-Game-Reinforcement-Learning) Top 6<sup>th</sup> out of 32 Teams
+- [Fully Functional DeepLearning Library (AinShamsFlow inspired by TensorFlow 1st Place)](https://github.com/PierreNabil/AinShamsFlow) Wins the 1<sup>st</sup> Place out of 50 Teams
+- [BrainWheel (4th Place)](https://github.com/Mostafa-ashraf19/BrainWheel) Wins the 4<sup>th</sup> Place out of 233 Teams at Dell Technologies 2021
+- [Dell Hacktrick'22 is a Multi-Agent Reinforcement Learning Competition (6th Place)](https://github.com/girgismicheal/Hacktrick-Game-Reinforcement-Learning) Top 6<sup>th</sup> out of 32 Teams
+
+### Tutorails
+- [Data Science](https://github.com/girgismicheal/Data-Science-Tutorial)
+- [Computer Vision](https://github.com/girgismicheal/Computer-Vision-Tutorials)
+- [Advanced Machine Learning](https://github.com/girgismicheal/Machine-Learning-Tutorials)
+- [Advanced Natural-Language-Processing](https://github.com/girgismicheal/Natural-Language-Processing-Tutorials)
+- [Cloud Analytics and Big Data](https://github.com/girgismicheal/Cloud-Analytics-Tutorials)
 
 ### Desktop Application
  - [Memory-Management-Application-Using-QT-framework](https://github.com/girgismicheal/Memory-Management-Application-Using-QT-framework)
