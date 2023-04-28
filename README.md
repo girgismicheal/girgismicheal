@@ -51,8 +51,6 @@
   - [Camera](https://github.com/girgismicheal/Camera-Project)
   - [Radar](https://github.com/girgismicheal/Radar_Project)
 
-
-
 ### GANs:
 - [Building Fake Task Filtering Security Layer using CGAN (Conditional GAN)](https://github.com/girgismicheal/Building-a-second-layer-of-secuirity-using-CGAN)
 
@@ -75,7 +73,7 @@
 - [Fully Functional DeepLearning Library (AinShamsFlow inspired by TensorFlow 1st Place)](https://github.com/PierreNabil/AinShamsFlow) Wins the 1<sup>st</sup> Place out of 50 Teams
 - [BrainWheel (4th Place)](https://github.com/Mostafa-ashraf19/BrainWheel) Wins the 4<sup>th</sup> Place out of 233 Teams at Dell Technologies 2021
 - [Dell Hacktrick'22 is a Multi-Agent Reinforcement Learning Competition (6th Place)](https://github.com/girgismicheal/Hacktrick-Game-Reinforcement-Learning) Top 6<sup>th</sup> out of 32 Teams
-- [TurtleBot 3 Waffle Pi Robotics Compitation]()
+- [TurtleBot 3 Waffle Pi Robotics Compitation](https://github.com/girgismicheal/TurtleBot3-Competition)
 
 ### Tutorails
 - [Data Science](https://github.com/girgismicheal/Data-Science-Tutorial)
