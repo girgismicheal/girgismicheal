@@ -29,7 +29,7 @@
 - Build One-vs-Rest and One-vs-One strategies Based-On the Most Important Features
 
 ### Natural Language Processing (NLP):
-- Arabic Text Summarization using transformers, and PyQt5
+- [Arabic Text Summarization using transformers-based Approach, and PyQt5](https://github.com/girgismicheal/Arabic-Text-Summarization-using-Transformers-and-PyQt5)
 - [Arabic Twitter Sentiment Analysis Classification](https://github.com/girgismicheal/Sentiment-Analysis-in-Arabic-tweet)
 - [Book Classification (Classification-Is-All-You-Need)](https://github.com/girgismicheal/-Book-Classification--Classification-Is-All-You-Need-)
 - [Book Clustering (Clustering-Is-All-You-Need)](https://github.com/girgismicheal/Book-Clustering-Clustering-Is-All-You-Need-)
@@ -46,7 +46,7 @@
 - Cars Detection (Yolo5, Yolo7, Faster RCNN, Fast RCNN, RCNN, and Yolo8)
 - Segmentation
 - OpenPose
-- DensePose
+- [DensePose Summarization and 27 Models Comparison](https://github.com/girgismicheal/DensePose-Summarization-and-27-Models-Comparison)
 - Sensor Fusion
   - [Camera](https://github.com/girgismicheal/Camera-Project)
   - [Radar](https://github.com/girgismicheal/Radar_Project)
