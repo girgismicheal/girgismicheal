@@ -25,6 +25,7 @@
 
 ### Machine Learning (ML):
 - [Network Intrusion Detection using Deep Learning](https://github.com/girgismicheal/Network-Intrusion-Detection-using-DeepLearning)
+- [Adaptive Malicious Detector on a Kafka Stream](https://github.com/girgismicheal/Adaptive-Malicious-Detector-on-a-Kafka-Stream)
 - Feature Selection Using Clustering Methods Vs Filter-Wrapper Methods
 - Build One-vs-Rest and One-vs-One strategies Based-On the Most Important Features
 
