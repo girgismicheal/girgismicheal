@@ -80,13 +80,27 @@
 ### Tutorials
 - [Data Science](https://github.com/girgismicheal/Data-Science-Tutorial)
 - [Computer Vision](https://github.com/girgismicheal/Computer-Vision-Tutorials)
-- [Advanced Machine Learning](https://github.com/girgismicheal/Machine-Learning-Tutorials)
-- [Advanced Natural-Language-Processing](https://github.com/girgismicheal/Natural-Language-Processing-Tutorials)
+- [Machine Learning](https://github.com/girgismicheal/Machine-Learning-Tutorials)
+- [Natural-Language-Processing](https://github.com/girgismicheal/Natural-Language-Processing-Tutorials)
 - [Cloud Analytics and Big Data](https://github.com/girgismicheal/Cloud-Analytics-Tutorials)
+- DevOps and Deployment for DataScientist
+  - Docker & Kubernetes
+  - Git and GitHub
+  - Linux
+  - Flask and RESTful API
+  - Streamlit
+  - AWS Use Cases
+- Advanced Computer Vision
+- Advanced NLP
+- Time Series
+- MLOPs
+- Reinforcement Learning
+- Self-driving Cars
+- Advanced Data Structures and Algorithms
 
 ### Desktop Application
- - [Memory-Management-Application-Using-QT-framework](https://github.com/girgismicheal/Memory-Management-Application-Using-QT-framework)
- - [Process-Scheduling-Application-Using-QT-framework](https://github.com/girgismicheal/Process-Scheduling-Application-Using-QT-framework)
+ - [Memory Management Application using QT framework](https://github.com/girgismicheal/Memory-Management-Application-Using-QT-framework)
+ - [Process Scheduling Application using QT framework](https://github.com/girgismicheal/Process-Scheduling-Application-Using-QT-framework)
 
 ### Technical Certificates:
 - AWS
@@ -113,8 +127,7 @@
   - Mathematics for Computer Science by Tom Leighton
 
 
-# Completed Project Repos:
-
+# Completed Repos:
 - [ ] DeepFake Detection
 - [X] Customer Churn using R Language
 - [X] Market Basket Analysis (MBA)
