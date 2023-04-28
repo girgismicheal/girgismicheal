@@ -77,7 +77,7 @@
 - [Dell Hacktrick'22 is a Multi-Agent Reinforcement Learning Competition (6th Place)](https://github.com/girgismicheal/Hacktrick-Game-Reinforcement-Learning) Top 6<sup>th</sup> out of 32 Teams
 - [TurtleBot 3 Waffle Pi Robotics Competition](https://github.com/girgismicheal/TurtleBot3-Competition)
 
-### Tutorails
+### Tutorials
 - [Data Science](https://github.com/girgismicheal/Data-Science-Tutorial)
 - [Computer Vision](https://github.com/girgismicheal/Computer-Vision-Tutorials)
 - [Advanced Machine Learning](https://github.com/girgismicheal/Machine-Learning-Tutorials)
