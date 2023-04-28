@@ -49,7 +49,8 @@
 - OpenPose
 - [DensePose Summarization and 27 Models Comparison](https://github.com/girgismicheal/DensePose-Summarization-and-27-Models-Comparison)
 - Sensor Fusion
-  - [Camera](https://github.com/girgismicheal/Camera-Project)
+  - [2D Feature Tracking using Camera](https://github.com/girgismicheal/2D-Feature-Tracking-using-Camera)
+  - [Camera-Lidar Sensor Fusion TTC Estimation](https://github.com/girgismicheal/Camera-Project)
   - [Radar](https://github.com/girgismicheal/Radar_Project)
 
 ### GANs:
