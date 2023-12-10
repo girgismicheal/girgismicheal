@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Girgis Micheal</h1>
-<h3 align="center"> Machine learning Engineer | Data scientist | AI Master's Student at the University of Ottawa, Canada</h3>
+<h3 align="center"> Data scientist (R&D) @ Dell Technologies | AI Master's Graduate at the University of Ottawa, Canada | Active Freelancer </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
